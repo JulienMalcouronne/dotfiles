@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = malcouronnejulien@gmail.com
+	name = Julien Malcouronne
